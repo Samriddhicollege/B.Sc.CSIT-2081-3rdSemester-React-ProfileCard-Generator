@@ -116,8 +116,8 @@ npm run dev
 
 ## GitHub & Live Demo
 
-- **GitHub Repository:** null
-- **Live URL (if deployed):** null
+- **GitHub Repository:** https://github.com/Samriddhicollege/B.Sc.CSIT-2081-3rdSemester-React-ProfileCard-Generator
+- **Live URL (if deployed):** https://ks-profilecard-generator.web.app/
 
 ---
 
